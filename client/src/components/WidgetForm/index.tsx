@@ -73,12 +73,12 @@ export function WidgetForm() {
       )}
 
       <footer className="text-xs text-neutral-400">
-        Feito com 🤍 pela{" "}
+        Feito pela{" "}
         <a
           className="underline underline-offset-2"
-          href="http://rocketseat.com.br"
+          href="https://bernardojru.github.io/E-COMMERCE/"
         >
-          Rocketseat
+          bershop
         </a>
       </footer>
     </div>
