@@ -1,4 +1,5 @@
 # <h1 align="center">🧑‍ feedback-widget 💬  </h1>
+<p>📝Simple widget to give feedback to any website.</p>
 
 <img src="https://user-images.githubusercontent.com/93547947/167271777-52d11fc7-3ca3-429a-b465-7116f1df2919.png">
 
