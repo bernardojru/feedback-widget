@@ -9,7 +9,7 @@
 # Client 👨🏾‍
 <code>Install</code>
 <pre>yarn</pre>
-<codeUse</code>
+<code>Use</code>
 <pre>yarn dev</pre>
 
 # Server 💻
